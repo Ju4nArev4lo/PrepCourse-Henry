@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio de prueba del PrepCourse de henry.
+Este es un proyecto para probar el uso de repositorios 
